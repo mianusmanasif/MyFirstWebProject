@@ -1,0 +1,53 @@
+body {
+    background-color: #aabfc1;
+    font-family: Arial;
+}
+
+#header {
+    background-color: lightblue;
+    color: blue;
+    text-align: right;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid white;
+}
+
+#friends {
+    background-color: turquoise;
+    width: 180px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid teal;
+}
+
+#journal {
+    margin-left: 230px;
+    text-align: left;
+}
+
+.entry {
+    background-color:whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid lightblue;
+    text-align: left;
+}
+
+.date {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-family: Arial;
+    font-weight: normal;
+}
+
+p {
+    font-family: Arial;
+}
+```
